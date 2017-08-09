@@ -16,5 +16,4 @@ Open api-manager.xml located in <APIM_HOME>/repository/conf folder, uncomment <A
     <TokenEndpoint>http://localhost:8080/v1/token</TokenEndpoint>
   </Configuration>
 </APIKeyManager>
-
-  ` ` ` 
+ ` ` ` 
