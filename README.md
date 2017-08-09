@@ -4,7 +4,7 @@ Using WSO2 API Manager store with Surf OAuth as the key manager
 
 Open api-manager.xml located in <APIM_HOME>/repository/conf folder, uncomment <APIKeyManager> element and configure it as explained below.
 
- ` ` ` xml
+ ` ` ` 
 <APIKeyManager>
   <KeyManagerClientImpl>nl.surfnet.demo.SurfOAuthClient</KeyManagerClientImpl>
   <Configuration>    
